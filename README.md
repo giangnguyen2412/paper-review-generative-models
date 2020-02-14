@@ -1,6 +1,7 @@
 # paper-review-generative-models
 A hub for reviews of generative models
 
+### 2016
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) - Xi Chen et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/3.md)
 
 ### 2015
