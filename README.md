@@ -15,3 +15,10 @@ High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/141
 
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) - Mehdi Mirza and Simon Osindero - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/2.md)
 
+## Problems in training GAN
+### Hard to achieve Nash equilibrium
+### Low dimensional supports
+### Vanishing gradient
+### Mode collapse
+### Lack of evaluation metrics
+
