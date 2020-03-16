@@ -5,6 +5,8 @@ A hub for reviews of generative models
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) - Xi Chen et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/3.md)
 * [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) - Xudong Mao et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/4.md)
 
+* [DC GANs - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434) - Radford et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/5.md)
+
 
 ### 2015
 
