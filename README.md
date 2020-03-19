@@ -24,3 +24,9 @@ High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/141
 ### Mode collapse
 ### Lack of evaluation metrics
 
+## Hack the GANs - Training tricks
+
+- A stable GAN will have a discriminator loss around 0.5, typically between 0.5 and maybe as high as 0.7 or 0.8. The generator loss is typically higher and may hover around 1.0, 1.5, 2.0, or even higher.
+
+- The accuracy of the discriminator on both real and generated (fake) images will not be 50%, but should typically hover around 70% to 80%.
+
