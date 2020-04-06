@@ -17,16 +17,12 @@ High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/141
 
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) - Mehdi Mirza and Simon Osindero - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/2.md)
 
-## Problems in training GAN
-### Hard to achieve Nash equilibrium
-### Low dimensional supports
-### Vanishing gradient
-### Mode collapse
-### Lack of evaluation metrics
 
 ## Hack the GANs - Training tricks
 
 - A stable GAN will have a discriminator loss around 0.5, typically between 0.5 and maybe as high as 0.7 or 0.8. The generator loss is typically higher and may hover around 1.0, 1.5, 2.0, or even higher.
 
 - The accuracy of the discriminator on both real and generated (fake) images will not be 50%, but should typically hover around 70% to 80%.
+
+- The -logD trick: When training the generator, we want to minimize log(1 - D(G(z))) (this has a form of log (1-x)). Using [graph calculator](https://www.desmos.com/calculator) we plot and see that the slope of this function is very small at first, thus giving handicaps for G when training in early stages. To solve this, we have to equalize the "minimize log(1 - D(G(z)))" to minimize -log(D(G(z))) (-log x). Using the graph plotter again, we can see the gradient at the early steps is much more stronger. By doing this, training GANs can be greatly improved.
 
