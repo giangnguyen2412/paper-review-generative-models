@@ -17,6 +17,8 @@ High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/141
 
 * [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784) - Mehdi Mirza and Simon Osindero - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/2.md)
 
+* [Best explanation of GANs based on Information theory I've ever seen](https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b)
+
 
 ## Hack the GANs - Training tricks
 
