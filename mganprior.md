@@ -68,4 +68,4 @@ This is shown here:
 ## Open problems
 
 - There are hyperparameters in this papers: 1) number of codes, 2) layer to perform composition.
-- In analyzing Role of each latent code, only 20 codes are possible, but I think it will largely restrict the sematics in synthesized photos.
+- In analyzing Role of each latent code, only 20 codes are possible for each image (20 semantics for an image), but I think it will somewhat restrict the sematics in synthesized photos.
