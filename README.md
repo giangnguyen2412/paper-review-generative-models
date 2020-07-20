@@ -4,6 +4,8 @@ A hub for reviews of generative models
 ### 2020
 * [Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/) - Augustus Odena - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/open_questions.md)
 
+* [Image Processing Using Multi-Code GAN Prior](https://distill.pub/2019/gan-open-problems/) - Gu ey al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/mganprior.md)
+
 ### 2019
 * [GANalyze: Toward Visual Definitions of Cognitive Image Properties](https://arxiv.org/abs/1906.10112) - Lore Goetschalckx et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/ganalyze.md)
 
