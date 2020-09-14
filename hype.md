@@ -32,10 +32,16 @@ means that people differentiate generated results from real data at chance rate,
 50% represents hyper-realism in which generated images appear more real than real images.
 
 
-HYPEtime: If you take a longer time to recognize a generated image, you model is better!
+HYPEtime: If you take a longer time to recognize a generated image, your model is better!
 
 **CelebA-64**. We find that StyleGANtrunc resulted in the highest HYPEtime score (modal exposure
 time), at a mean of 439:3ms, indicating that evaluators required nearly a half-second of exposure
 to accurately classify StyleGANtrunc images (Table 1). StyleGANtrunc is followed by ProGAN at
 363:7ms, a 17% drop in time. BEGAN and WGAN-GP are both easily identifiable as fake, tied in last
 place around the minimum available exposure time of 100ms. 
+
+HYPEinf: Given evaluators unlimited time, if your model fools users more, your model is better!
+
+Table 2 reports results for HYPE1 on CelebA-64. We find that StyleGANtrunc resulted
+in the highest HYPE1 score, fooling evaluators 50:7% of the time. StyleGANtrunc is followed
+by ProGAN at 40:3%, BEGAN at 10:0%, and WGAN-GP at 3:8%.
