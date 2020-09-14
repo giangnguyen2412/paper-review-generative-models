@@ -9,6 +9,8 @@ A hub for reviews of generative models
 ### 2019
 * [GANalyze: Toward Visual Definitions of Cognitive Image Properties](https://arxiv.org/abs/1906.10112) - Lore Goetschalckx et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/ganalyze.md)
 
+* [HYPE: A Benchmark for Human eYe Perceptual Evaluation of Generative Models](https://arxiv.org/pdf/1904.01121.pdf) -Sharon Zhou et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/hype.md)
+
 ### 2016
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657) - Xi Chen et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/3.md)
 * [Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076) - Xudong Mao et al - [review](https://github.com/luulinh90s/paper-review-generative-models/blob/master/4.md)
